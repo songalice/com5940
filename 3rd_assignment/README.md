@@ -8,4 +8,6 @@ Password: sylsyl
 
 After clicking the button of  View points transactions, you can see the points this sample user got.
 
-Users will get 10 scores if they comment on a post, and  will get 3 more scores if they update their comments.
+1. Users will get 10 scores if they comment on a post
+2. Users will get 3 scores if they update their comments, 
+3. Users will get 15 scores after saving new contents.
